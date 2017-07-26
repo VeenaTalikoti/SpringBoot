@@ -1,4 +1,4 @@
 ---
 wordConfig:
   message: 
-  greeting: Hello Spring Boot Cloud
+    greeting: Hello Spring Boot Cloud
