@@ -1,6 +1,6 @@
 message: Config Server Refresh Test
-spring.rabbitmq.host:104.43.244.255
-spring.rabbitmq.port:5672
+spring.rabbitmq.host: 104.43.244.255
+spring.rabbitmq.port: 5672
 spring.rabbitmq.username:admin
 spring.rabbitmq.password:admin
 ccop.rabbitmq.queue:ccop.queue
