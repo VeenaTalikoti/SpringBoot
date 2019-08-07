@@ -1,5 +1,5 @@
 message: Config Server Refresh Test from user application
-spring.rabbitmq.host: 104.43.244.255
+spring.rabbitmq.host: 104.43.141.31
 spring.rabbitmq.port: 5672
 spring.rabbitmq.username: admin
 spring.rabbitmq.password: admin
