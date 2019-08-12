@@ -1,0 +1,4 @@
+message: Config Server Refresh Test
+smc.username : admin@cyqurex.co.in
+smc.userpassword : password
+smc.url : https://devsmc.cyqurenet.net/ccop-0/
